@@ -1,2 +1,1 @@
-# zero_day
-This is my first repository as a full-stack engineer
+new readme file for VM project
